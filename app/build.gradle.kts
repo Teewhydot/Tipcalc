@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "ng.com.sirteefyapps.tipcalc"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "ng.com.sirteefyapps.tipcalc"
