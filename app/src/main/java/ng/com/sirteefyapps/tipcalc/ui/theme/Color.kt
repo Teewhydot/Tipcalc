@@ -9,4 +9,4 @@ val BackGroundColor = Color(0xFFEFB8C8)
 val Purple40 = Color(0xFF6650a4)
 val AppBarColor = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
-val ContainerColor = Color.LightGray
+val AppBarMainColor = Color.LightGray
